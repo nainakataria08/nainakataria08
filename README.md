@@ -1,30 +1,24 @@
-# Hi, I'm Naina 👋
-🎓 Computer Science Student  
-💻 Learning by building  
-🤖 Exploring AI & software  
-🏆 Hackathon enthusiast
+# Hey, I'm Naina 👋
 
-## About Me
-I'm a computer science student who enjoys learning by building
-projects and experimenting with new ideas.
+🎓 Computer Science Student | 💻 Builder in Progress | 🤖 Exploring AI
+
+> I learn by building, break things by experimenting, and grow by figuring out how they work.
+
+## 🚀 What I'm About
+
+I'm a computer science student passionate about turning ideas into
+real projects. I'm currently exploring software development, AI,
+and everything I can learn by building.
 
 I'm currently learning:
 - C
 - Python
-- Git & GitHub
+- Git & Github
 - AI
 
-## What I'm Working On
-🚀 Building projects and preparing for hackathons  
-💻 Improving my programming fundamentals  
-🤖 Exploring AI-powered applications
-
 ## Goals
+
 - Build meaningful projects
 - Get better at software development
 - Participate in hackathons
 - Keep learning and experimenting
-
----
-
-⭐ Thanks for visiting my profile!
